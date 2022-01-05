@@ -1,4 +1,4 @@
-# Car Rental Project
+# Car Island
  
 *- This repository contains sample project where different Azure cloud services were used*
 
@@ -6,7 +6,7 @@
 
 ![CarsIsland0.jpg](images/CarsIsland0.jpg)
 
-Cars Rental Project is a car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.
+Cars Island is a car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.
 
 ## Use cases are following:
 

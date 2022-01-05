@@ -1,4 +1,4 @@
-# Cars Island Car Rental on the Azure cloud
+# Car Rental Project
  
 *- This repository contains sample project where different Azure cloud services were used*
 
@@ -6,7 +6,7 @@
 
 ![CarsIsland0.jpg](images/CarsIsland0.jpg)
 
-Cars Island is a fake car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.
+Cars Rental Project is a car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.
 
 *If you like this content, please give it a star!*
 ![github-start.png](images/github-start2.png)

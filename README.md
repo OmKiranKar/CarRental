@@ -4,8 +4,6 @@
 
 *- Some of the concepts were simplified to make it possible to deliver complete solution*
 
-*- On my [tech blog](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/) there is a series of articles where I described implementation details*
-
 ![CarsIsland0.jpg](images/CarsIsland0.jpg)
 
 Cars Island is a fake car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.
